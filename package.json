@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@umijs/plugin-model": "^2.6.1"
+  }
+}
